@@ -1,0 +1,11 @@
+#ACR介绍
+Remark: 8.29更新上云
+#支持的职业
+SupportJobs:
+  - 龙骑士
+#支持链接
+SupportUrl: None
+#问题反馈链接
+ReportUrl: https://discord.com/channels/1191648233454313482/1360237617408639067
+#是否国际服版本
+EnVersion: false
